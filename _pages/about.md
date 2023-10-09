@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingjie Li"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
