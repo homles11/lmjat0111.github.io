@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-</style>
-
 <h2 id='2023'>2023</h2>
 
 ### <span style="color:rgb(39, 117, 182)">GEQ: Gaussian Kernel Inspired Equilibrium Models</span>
