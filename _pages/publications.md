@@ -4,7 +4,32 @@ permalink: /publications/
 author_profile: true
 ---
 
-<style type="text/css" rel="stylesheet"> .btn--paper { color: white; background-color: lightseagreen; padding: 1px 3px; text-align: center; border-radius: 4px; a { TEXT-DECORATION:none } } .btn--arxiv { color: white; background-color: tan; padding: 1px 3px; text-align: center; border-radius: 4px; a { TEXT-DECORATION:none } } .btn--code { color: white; background-color: DARKORANGE; padding: 1px 3px; text-align: center; border-radius: 4px; a { TEXT-DECORATION:none } } </style>
+<style type="text/css" rel="stylesheet">
+.btn--paper {
+color: white;
+background-color: lightseagreen;
+padding: 1px 3px;
+text-align: center;
+border-radius: 4px;
+a { TEXT-DECORATION:none }
+}
+.btn--arxiv {
+color: white;
+background-color: tan;
+padding: 1px 3px;
+text-align: center;
+border-radius: 4px;
+a { TEXT-DECORATION:none }
+}
+.btn--code {
+color: white;
+background-color: DARKORANGE;
+padding: 1px 3px;
+text-align: center;
+border-radius: 4px;
+a { TEXT-DECORATION:none }
+}
+</style>
 
 <h2 id='2023'>2023</h2>
 
