@@ -39,9 +39,9 @@ author_profile: true
 <font size="3"><b>Mingjie Li</b>, Yisen Wang, Xingyu Xie, Zhouchen Lin;
 <i>ICLR 2022</i></font>
 <a href="https://openreview.net/pdf?id=nbC8iTTXIrk" class="btn--paper" target="_blank">pdf</a>
-<h2 id='2022'>2020</h2>
 
 <h2 id='2020'>2020</h2>
+
 ### <span style="color:rgb(39, 117, 182)">Implicit euler skip connections: Enhancing adversarial robustness via numerical stability</span>
 <font size="3"><b>Mingjie Li</b>, Lingshen He, Zhouchen Lin
 <i>ICML 2020</i></font>
