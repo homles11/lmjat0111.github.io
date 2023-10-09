@@ -41,8 +41,21 @@ author_profile: true
 <a href="https://openreview.net/pdf?id=nbC8iTTXIrk" class="btn--paper" target="_blank">pdf</a>
 <h2 id='2022'>2020</h2>
 
+<h2 id='2020'>2020</h2>
 ### <span style="color:rgb(39, 117, 182)">Implicit euler skip connections: Enhancing adversarial robustness via numerical stability</span>
 <font size="3"><b>Mingjie Li</b>, Lingshen He, Zhouchen Lin
 <i>ICML 2020</i></font>
 <a href="https://proceedings.mlr.press/v162/li22h/li22h.pdf" class="btn--paper" target="_blank">pdf</a>
 <a href="https://github.com/homles11/IE-ResNet" class="btn--code" target="_blank">code</a>
+
+<h2 id='2018'>2018</h2>
+### <span style="color:rgb(39, 117, 182)">Deep Convolutional Neural Networks with Merge-and-Run Mappings</span>
+<font size="3">Liming Zhao, <b>Mingjie Li</b>, Depu Meng, Xi Li, Zhaoxiang Zhang, Yueting Zhuang, Zhuowen Tu, Jingdong Wang
+<i>IJCAI 2018</i></font>
+<a href="https://proceedings.mlr.press/v162/li22h/li22h.pdf" class="btn--paper" target="_blank">pdf</a>
+
+
+### <span style="color:rgb(39, 117, 182)">Igcv3: Interleaved low-rank group convolutions for efficient deep neural networks</span>
+<font size="3">Ke Sun, <b>Mingjie Li</b>, Dong Liu, Jingdong Wang
+<i>BMVC 2018</i></font>
+<a href="https://proceedings.mlr.press/v162/li22h/li22h.pdf" class="btn--paper" target="_blank">pdf</a>
