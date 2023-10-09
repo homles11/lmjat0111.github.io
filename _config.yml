@@ -11,9 +11,9 @@ title                    : "Mingjie Li / 李明杰"
 title_separator          : "-"
 name                     : &name "Mingjie li"
 description              : &description "personal description"
-url                      : https://homles11.github.io/mingjie_li# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://homles11.github.io/mingjie_li.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "homles11/mingjie_li"
+repository               : "homles11/mingjie_li.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-#Social Sharing
+##Social Sharing
 # twitter:
 #   username               : 
 # facebook:
@@ -85,7 +85,7 @@ author:
   bio              : "Postdoc Researcher in CISPA"
   location         : "Saarbrücken Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=evCKd80AAAAJ&hl=en&authuser=1"
   email            : "lmjat0111@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
