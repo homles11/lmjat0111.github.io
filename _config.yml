@@ -55,16 +55,16 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-# twitter:
-#   username               : &twitter
-# facebook:
-#   username               :
-#   app_id                 :
-#   publisher              :
-# og_image                 :  # Open Graph/Twitter default site image
-# # For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+Social Sharing
+twitter:
+  username               : 
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :  
+# For specifying social profiles
+- https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=evCKd80AAAAJ&hl=en&authuser=1"
-  email            : "mingjie.li@cispa.de"
+  email            : "lmjat0111@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -176,18 +176,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
